@@ -27,7 +27,7 @@ end
 
 def remove_element_from_start_of_array(array)
   
-  element = create_an_array.shift
+  "Jay" = create_an_array.shift
   
 end
 
