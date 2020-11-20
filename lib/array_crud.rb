@@ -21,7 +21,7 @@ end
 
 def remove_element_from_end_of_array(array)
   
-  element= create_an_array.pop
+  element = create_an_array.pop
   
 end
 
