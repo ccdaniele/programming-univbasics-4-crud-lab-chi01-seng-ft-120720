@@ -2,7 +2,8 @@ def create_an_empty_array
   []
 end
 
-def create_an_array ["wow", "am", "really", "learning"]
+def create_an_array
+  ["Raul","Hernan", "phil","Jay"]
   
 end
 
@@ -26,7 +27,7 @@ end
 
 def remove_element_from_start_of_array(array)
   
-  wow = create_an_array.shift
+  create_an_array.shift
   
 end
 
