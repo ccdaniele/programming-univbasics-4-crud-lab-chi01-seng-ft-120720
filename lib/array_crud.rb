@@ -21,13 +21,13 @@ end
 
 def remove_element_from_end_of_array(array)
   
-  "array" = create_an_array.pop
+  "jay" = create_an_array.pop
   
 end
 
 def remove_element_from_start_of_array(array)
   
-  "wow" = create_an_array.shift
+  "Raul" = create_an_array.shift
   
 end
 
